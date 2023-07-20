@@ -1,0 +1,118 @@
+.container{width: 1300px;}
+.container >header{height: 90px;}
+.container >nav{height: 60px;}
+.container > footer{height: 45px;}
+
+
+#divhinhdep { background-color: AliceBlue; padding: 0;}
+#divhinhdep div.hinh { 
+  float: left;  width: 200px;  height: 120px; margin: 5px;
+  border: 4px dashed rgb(81, 255, 0);
+  filter: drop-shadow(0 0 5px rgb(0, 166, 255));
+}
+#divhinhdep div.hinh:hover { cursor: pointer;}
+#divhinhdep img { width: 100%; height: 100%; }
+footer p{
+  background-color: yellow;
+  height: 80px;
+  border-radius: 5px;
+ margin-bottom: 50px;
+  width: 100%;
+  text-align: center;
+  font-family: 'Itim', cursive;
+  color: black;
+  font-weight: 700;
+}
+#hoten{
+  text-align: center;
+  font-size: 50px;
+  font-family: Comic Sans MS;
+}
+.back {
+  background-color: lavender;
+  transform: rotateY(180deg); /* to flip back */
+}
+/* .card:hover {
+  transform: rotateY(180deg);  
+} */
+@keyframes flip {
+30%, 70% {
+  transform: rotateY(0);
+}
+45%, 55% {
+  transform: rotateY(180deg);
+}
+}
+.an { display: none;}
+.hien { display: block;}
+#diem{
+  height: 40px;
+  text-align: center;
+  background-color: hotpink;
+  font-size: 20px;
+  border-radius: 3px;
+}
+
+#divNguoiChoi {
+  background-color: #fefded;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+#divNguoiChoi h2 {
+  font-size: 24px;
+  font-weight: bolder;
+  margin-bottom: 20px;
+  color: #ff7300;
+  text-transform: uppercase;
+  font-style: italic;
+  text-decoration: underline;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+#divNguoiChoi p {
+  font-size: 18px;
+  margin-bottom: 10px;
+  position: relative;
+  padding-left: 30px;
+}
+
+#divNguoiChoi p:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 20px;
+  height: 20px;
+  border-radius: 60%;
+  background-color: #ff0000;
+}
+
+#divNguoiChoi p span:first-child {
+  margin-right: 10px;
+  font-weight: bold;
+}
+
+#divNguoiChoi p span:nth-child(2) {
+  margin-right: 20px;
+  max-width: 200px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+#divNguoiChoi p span:nth-child(2){
+  font-weight: 700;
+  font-family: Comic Sans MS;
+  
+}
+#divNguoiChoi p span:nth-child(3) {
+  font-weight: bold;
+  color: #06ff69;
+  font-style: italic;
+  font-size: larger;
+  font-family: Courier New, monospace;
+}

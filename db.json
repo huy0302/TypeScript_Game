@@ -1,0 +1,267 @@
+{
+  "hinh": [
+    {
+      "id": 1,
+      "url": "bien.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 2,
+      "url": "bien2.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 3,
+      "url": "bien3.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 4,
+      "url": "bien4.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 5,
+      "url": "bien5.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 6,
+      "url": "bien6.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    }
+  ],
+  "choi": [
+    {
+      "id": 1,
+      "ten": "Tèo",
+      "diem": 8,
+      "thoidiem": "2023-04-01 9:6:28"
+    },
+    {
+      "id": 2,
+      "ten": "Huy",
+      "diem": 10,
+      "thoidiem": "2023-04-01 12:1:42"
+    },
+    {
+      "id": 3,
+      "ten": "Ngọc",
+      "diem": 5,
+      "thoidiem": "2023-04-01 2:3:28"
+    },
+    {
+      "id": 4,
+      "ten": "Minh",
+      "diem": -2,
+      "thoidiem": "2023-01-01 12:12:12"
+    },
+    {
+      "ten": "huy",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:28:50.513Z",
+      "id": 5
+    },
+    {
+      "ten": "huy",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:36:42.041Z",
+      "id": 6
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:38:26.975Z",
+      "id": 7
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:38:54.266Z",
+      "id": 8
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -6,
+      "thoidiem": "2023-04-05T18:07:52.623Z",
+      "id": 9
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T04:00:48.116Z",
+      "id": 10
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T04:01:03.725Z",
+      "id": 11
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T04:01:13.717Z",
+      "id": 12
+    },
+    {
+      "ten": "Long",
+      "diem": -6,
+      "thoidiem": "2023-04-08T04:01:52.629Z",
+      "id": 13
+    },
+    {
+      "ten": "Long",
+      "diem": 7,
+      "thoidiem": "2023-04-08T04:02:01.053Z",
+      "id": 14
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T06:24:52.508Z",
+      "id": 15
+    },
+    {
+      "ten": "huy",
+      "diem": 7,
+      "thoidiem": "2023-04-08T06:25:01.762Z",
+      "id": 16
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:27:19.769Z",
+      "id": 17
+    },
+    {
+      "ten": "huy",
+      "diem": 7,
+      "thoidiem": "2023-04-08T06:31:07.336Z",
+      "id": 18
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:31:17.624Z",
+      "id": 19
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:50:02.102Z",
+      "id": 20
+    },
+    {
+      "ten": "huy",
+      "diem": 8,
+      "thoidiem": "2023-04-08T06:51:43.118Z",
+      "id": 21
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:51:52.182Z",
+      "id": 22
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:52:17.790Z",
+      "id": 23
+    },
+    {
+      "ten": "huy",
+      "diem": 8,
+      "thoidiem": "2023-04-08T06:52:26.517Z",
+      "id": 24
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:53:04.383Z",
+      "id": 25
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:53:08.799Z",
+      "id": 26
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T06:53:49.215Z",
+      "id": 27
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T06:55:24.191Z",
+      "id": 28
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-08T06:55:30.063Z",
+      "id": 29
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:56:26.652Z",
+      "id": 30
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:57:14.442Z",
+      "id": 31
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:59:41.070Z",
+      "id": 32
+    },
+    {
+      "ten": "huy",
+      "diem": 9,
+      "thoidiem": "2023-04-08T06:59:54.620Z",
+      "id": 33
+    },
+    {
+      "ten": "huy",
+      "diem": 7,
+      "thoidiem": "2023-04-08T07:03:04.646Z",
+      "id": 34
+    },
+    {
+      "ten": "huy",
+      "diem": 8,
+      "thoidiem": "2023-04-08T07:03:32.294Z",
+      "id": 35
+    },
+    {
+      "ten": "huy",
+      "diem": -6,
+      "thoidiem": "2023-04-21T17:13:01.204Z",
+      "id": 36
+    }
+  ],
+  "proflie": {
+    "name": "typicode"
+  }
+}

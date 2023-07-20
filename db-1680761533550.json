@@ -1,0 +1,105 @@
+{
+  "hinh": [
+    {
+      "id": 1,
+      "url": "bien.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 2,
+      "url": "bien2.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 3,
+      "url": "bien3.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 4,
+      "url": "bien4.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 5,
+      "url": "bien5.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    },
+    {
+      "id": 6,
+      "url": "bien6.jpg",
+      "level": 1,
+      "ten": "Biển đảo",
+      "mota": ""
+    }
+  ],
+  "choi": [
+    {
+      "id": 1,
+      "ten": "Tèo",
+      "diem": 8,
+      "thoidiem": "2023-04-01 9:6:28"
+    },
+    {
+      "id": 2,
+      "ten": "Huy",
+      "diem": 10,
+      "thoidiem": "2023-04-01 12:1:42"
+    },
+    {
+      "id": 3,
+      "ten": "Ngọc",
+      "diem": 5,
+      "thoidiem": "2023-04-01 2:3:28"
+    },
+    {
+      "id": 4,
+      "ten": "Minh",
+      "diem": -2,
+      "thoidiem": "2023-01-01 12:12:12"
+    },
+    {
+      "ten": "huy",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:28:50.513Z",
+      "id": 5
+    },
+    {
+      "ten": "huy",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:36:42.041Z",
+      "id": 6
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:38:26.975Z",
+      "id": 7
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -4,
+      "thoidiem": "2023-04-05T17:38:54.266Z",
+      "id": 8
+    },
+    {
+      "ten": "Ngọc",
+      "diem": -6,
+      "thoidiem": "2023-04-05T18:07:52.623Z",
+      "id": 9
+    }
+  ],
+  "proflie": {
+    "name": "typicode"
+  }
+}
